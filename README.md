@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working at Worldalytics, specifically on Data Science and Web Development<br>👯 I’m looking to collaborate on DL, ML and AI in order to learn more about it. Also I enjoy developing Python based projects.<br>🌱 I’m currently learning Artificial Intelligence and Data Mining.
 
 
